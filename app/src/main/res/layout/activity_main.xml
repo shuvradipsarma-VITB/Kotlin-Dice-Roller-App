@@ -14,8 +14,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        app:src="@drawable/empty_dice"
-        tools:src="@drawable/dice_1"/>
+        android:src="@drawable/dice_1"/>
+
 
     <!--        app:layout_constraintBottom_toBottomOf="parent"-->
     <!--        app:layout_constraintStart_toStartOf="parent"-->
